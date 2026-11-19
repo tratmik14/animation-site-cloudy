@@ -12,4 +12,3 @@
 https://www.pixar.com/partly-cloudy
 
 Неофициальный учебный фан-сайт. Персонажи и изображения принадлежат Disney / Pixar. Шрифт Manrope распространяется по SIL Open Font License; лицензия находится в FONT-LICENSE.txt.
-
